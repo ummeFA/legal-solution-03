@@ -1,0 +1,15 @@
+.banner-image{
+    position: center;
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.banner-header{
+    text-align: right;
+    position: absolute;
+    font-size: 600px;
+    color: white;
+}
+.search-box{
+    position: absolute;
+    background-color: aliceblue;
+}
